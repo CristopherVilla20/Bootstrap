@@ -2845,9 +2845,8 @@ textarea.form-control-lg {
   opacity: var(--bs-btn-disabled-opacity);
 }
 
-.botones > button{
-  display: inline-block;
-
+.botones{
+  width: 600px;
 }
 
 .btn-primary {
