@@ -10874,7 +10874,7 @@ header.masthead {
 
 }
 header.masthead .masthead-content {
-  z-index: 1;
+ 
   position: relative;
 }
 header.masthead .masthead-content .masthead-heading {
@@ -10916,7 +10916,7 @@ header.masthead .bg-circle-4 {
 }
 
 header {
-  background-image: url(/assets/img/headImage.jpg);
+  background-image: url(/assets/img/imgHead.jpg);
 }
 
 @media (min-width: 992px) {
